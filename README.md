@@ -1,6 +1,6 @@
 # 👋 About Me
 
-**21 y.o Fullstack Developer**
+**22 y.o Fullstack Developer**
 
 ---
 
